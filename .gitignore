@@ -1,0 +1,8 @@
+.svn
+*~
+*.diff
+*.orig
+*.rej
+.#*
+.htaccess
+.DS_Store
