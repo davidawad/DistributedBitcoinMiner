@@ -15,7 +15,7 @@ Just clone the repo, `cd` into it and use PHP's internal server.
 
 `php -S localhost:8000`
 
-Then open the demo at 'localhost:3000/index.html'
+Then open the demo at `localhost:8000/index.html`
 
 ##  Development
 Look inside of `credentials.class.php`, adjust those variables for your local
